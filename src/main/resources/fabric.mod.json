@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "tutorialmod2",
+	"version": "${version}",
+	"name": "Tutorial Mod 2",
+	"description": "This is a Tutorial Mod by darth Artikus Gaming aka TOPskinnerhd based upon the Tutorial Series by Kaupenjoe!",
+	"authors": [
+		"Darth Artikus Gaming"
+	],
+	"contact": {
+		"homepage": "https://darth_artikus.com/",
+		"sources": "https://github.com/darthartikus/tutorial-mod-2-template-1.21"
+	},
+	"license": "MIT",
+	"icon": "assets/tutorialmod2/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.darthartikusgaming.tutorialmod2.TutorialMod2"
+		],
+		"fabric-datagen": [
+			"net.darthartikusgaming.tutorialmod2.TutorialMod2DataGenerator"
+		],
+        "client": [
+            "net.darthartikusgaming.tutorialmod2.TutorialMod2Client"
+        ]
+	},
+	"mixins": [
+		"tutorialmod2.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.1",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
