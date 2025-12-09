@@ -1,5 +1,7 @@
 package net.darthartikusgaming.tutorialmod2;
 
+import net.darthartikusgaming.tutorialmod2.block.ModBlocks;
+import net.darthartikusgaming.tutorialmod2.item.ModItemGroups;
 import net.darthartikusgaming.tutorialmod2.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +14,9 @@ public class TutorialMod2 implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+        ModItemGroups.registerItemGroups();
+
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 	}
 }
