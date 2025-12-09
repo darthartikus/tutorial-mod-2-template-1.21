@@ -1,0 +1,16 @@
+{
+  "item.tutorialmod2.pink_garnet": "Pinker Granat",
+  "item.tutorialmod2.raw_pink_garnet": "Roher Pinker Granat",
+  "item.tutorialmod2.chisel": "Meißel",
+
+  "block.tutorialmod2.pink_garnet_block": "Pinker Granat Block",
+  "block.tutorialmod2.raw_pink_garnet_block": "Roher Pinker Granat Block",
+
+  "block.tutorialmod2.pink_garnet_ore": "Pinker Granat Erz",
+  "block.tutorialmod2.pink_garnet_deepslate_ore": "Tiefenschiefer-Pinker Granat-Erz",
+
+  "block.tutorialmod2.magic_block": "Magieblock",
+
+  "itemgroup.tutorialmod2.pink_garnet_items": "Pinker Granat Gegenstände",
+  "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinker Granat Blöcke"
+}

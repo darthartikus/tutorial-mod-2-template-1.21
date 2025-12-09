@@ -1,0 +1,16 @@
+{
+  "item.tutorialmod2.pink_garnet": "Pinka Granat",
+  "item.tutorialmod2.raw_pink_garnet": "Roha Pinka Granat",
+  "item.tutorialmod2.chisel": "Meißl",
+
+  "block.tutorialmod2.pink_garnet_block": "Pinker Granat Block",
+  "block.tutorialmod2.raw_pink_garnet_block": "Roha Pinka Granat Block",
+
+  "block.tutorialmod2.pink_garnet_ore": "Pinka Granat Erz",
+  "block.tutorialmod2.pink_garnet_deepslate_ore": "Tiafnschiefa-Pinka Granat-Erz",
+
+  "block.tutorialmod2.magic_block": "Magieblock",
+
+  "itemgroup.tutorialmod2.pink_garnet_items": "Pinka Granat Gegenständ",
+  "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinka Granat Blöcke"
+}
