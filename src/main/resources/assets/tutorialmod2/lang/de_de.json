@@ -2,6 +2,8 @@
   "item.tutorialmod2.pink_garnet": "Pinker Granat",
   "item.tutorialmod2.raw_pink_garnet": "Roher Pinker Granat",
   "item.tutorialmod2.chisel": "Meißel",
+  "item.tutorialmod2.cauliflower": "Blumenkohl",
+  "item.tutorialmod2.starlight_ashes": "Sternenstaub",
 
   "block.tutorialmod2.pink_garnet_block": "Pinker Granat Block",
   "block.tutorialmod2.raw_pink_garnet_block": "Roher Pinker Granat Block",
@@ -12,5 +14,11 @@
   "block.tutorialmod2.magic_block": "Magieblock",
 
   "itemgroup.tutorialmod2.pink_garnet_items": "Pinker Granat Gegenstände",
-  "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinker Granat Blöcke"
+  "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinker Granat Blöcke",
+
+  "tooltip.tutorialmod2.magic_block.tooltip": "Dieser Block ist sehr, sehr §9MAGISCH§r",
+
+  "tooltip.tutorialmod2.chisel.shift_down": "Dieses Meißel verwandelt Blöcke in Ziegel",
+  "tooltip.tutorialmod2.chisel": "Drücke §eShift§r für mehr Information",
+  "tooltip.tutorialmod2.cauliflower.tooltip": "Sehr lecker!"
 }

@@ -2,6 +2,8 @@
   "item.tutorialmod2.pink_garnet": "Pinka Granat",
   "item.tutorialmod2.raw_pink_garnet": "Roha Pinka Granat",
   "item.tutorialmod2.chisel": "Meißl",
+  "item.tutorialmod2.cauliflower": "Karfiol",
+  "item.tutorialmod2.starlight_ashes": "Sterndlstaub",
 
   "block.tutorialmod2.pink_garnet_block": "Pinker Granat Block",
   "block.tutorialmod2.raw_pink_garnet_block": "Roha Pinka Granat Block",
@@ -12,5 +14,11 @@
   "block.tutorialmod2.magic_block": "Magieblock",
 
   "itemgroup.tutorialmod2.pink_garnet_items": "Pinka Granat Gegenständ",
-  "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinka Granat Blöcke"
+  "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinka Granat Blöcke",
+
+  "tooltip.tutorialmod2.magic_block.tooltip": "Diesa Block is oarg §9MAGISCH§r",
+
+  "tooltip.tutorialmod2.chisel.shift_down": "Des Meißl ändert Blöcke in Ziegl",
+  "tooltip.tutorialmod2.chisel": "Drück §eShift§r für mehr Information",
+  "tooltip.tutorialmod2.cauliflower.tooltip": "Sehr gschmackig!"
 }
