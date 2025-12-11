@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "tutorialmod2:block/pink_garnet_block"
+  }
+}
