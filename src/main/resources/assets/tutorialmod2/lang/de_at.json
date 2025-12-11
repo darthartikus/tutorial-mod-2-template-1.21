@@ -13,6 +13,21 @@
 
   "block.tutorialmod2.magic_block": "Magieblock",
 
+  "block.tutorialmod2.pink_garnet_stairs": "Pinka Granat Treppn",
+  "block.tutorialmod2.pink_garnet_slab": "Pinka Granat Stufn",
+
+  "block.tutorialmod2.pink_garnet_button": "Pinka Granat Stufn",
+  "block.tutorialmod2.pink_garnet_pressure_plate": "Pinka Granat Druckplattn",
+
+  "block.tutorialmod2.pink_garnet_fence": "Pinka Granat Zaun",
+  "block.tutorialmod2.pink_garnet_fence_gate": "Pinka Granat Zauntürdl",
+  "block.tutorialmod2.pink_garnet_wall": "Pinka Granat Mauer",
+
+  "block.tutorialmod2.pink_garnet_door": "Pinka Granat Türdl",
+  "block.tutorialmod2.pink_garnet_trapdoor": "Pinka Granat Falltürdl",
+
+  "block.tutorialmod2.pink_garnet_lamp": "Pink Garnet Lampn",
+
   "itemgroup.tutorialmod2.pink_garnet_items": "Pinka Granat Gegenständ",
   "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinka Granat Blöcke",
 

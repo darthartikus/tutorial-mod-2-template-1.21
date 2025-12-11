@@ -13,6 +13,21 @@
 
   "block.tutorialmod2.magic_block": "Magieblock",
 
+  "block.tutorialmod2.pink_garnet_stairs": "Pinker Granat Treppe",
+  "block.tutorialmod2.pink_garnet_slab": "Pinker Granat Stufe",
+
+  "block.tutorialmod2.pink_garnet_button": "Pinker Granat Knopf",
+  "block.tutorialmod2.pink_garnet_pressure_plate": "Pinker Granat Druckplatte",
+
+  "block.tutorialmod2.pink_garnet_fence": "Pinker Granat Zaun",
+  "block.tutorialmod2.pink_garnet_fence_gate": "Pinker Granat Zauntor",
+  "block.tutorialmod2.pink_garnet_wall": "Pinker Granat Mauer",
+
+  "block.tutorialmod2.pink_garnet_door": "Pinker Granat Türe",
+  "block.tutorialmod2.pink_garnet_trapdoor": "Pinker Granat Falltüre",
+
+  "block.tutorialmod2.pink_garnet_lamp": "Pink Garnet Lampe",
+
   "itemgroup.tutorialmod2.pink_garnet_items": "Pinker Granat Gegenstände",
   "itemgroup.tutorialmod2.pink_garnet_blocks": "Pinker Granat Blöcke",
 

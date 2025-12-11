@@ -45,7 +45,7 @@ public class MagicBlock extends Block {
     }
 
     private boolean isValidItem(ItemStack stack) {
-        return stack.isIn(ModTags.Items.TRANSFORMABLE_ITEMS)
+        return stack.isIn(ModTags.Items.TRANSFORMABLE_ITEMS);
     }
 
     @Override
